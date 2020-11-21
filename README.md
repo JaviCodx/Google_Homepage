@@ -1,3 +1,4 @@
 From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
 
-Build the Google.com homepage 	
+Build the Google.com homepage using HTML and CSS
+
